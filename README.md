@@ -1,1 +1,1 @@
-Slots-game
+Slots-game Javascript only
