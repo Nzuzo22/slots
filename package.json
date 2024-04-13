@@ -1,0 +1,25 @@
+{
+  "name": "slots-game",
+  "version": "1.0.0",
+  "description": "is the string slots?",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nzuzo22/slots.git"
+  },
+  "keywords": [
+    "slots"
+  ],
+  "author": "Nzuzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nzuzo22/slots/issues"
+  },
+  "homepage": "https://github.com/Nzuzo22/slots#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
